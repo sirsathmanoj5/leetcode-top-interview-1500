@@ -1,0 +1,21 @@
+{
+  "name": "leetcode-top-interview-1500",
+  "version": "1.0.0",
+  "description": "Top Interview 150",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/162-find-peak-lement.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirsathmanoj5/leetcode-top-interview-1500.git"
+  },
+  "author": "Manoj Sirsath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirsathmanoj5/leetcode-top-interview-1500/issues"
+  },
+  "homepage": "https://github.com/sirsathmanoj5/leetcode-top-interview-1500#readme"
+}
