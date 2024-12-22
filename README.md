@@ -1,2 +1,2 @@
-# leetcode-top-interview-1500
+# leetcode-top-interview-150
 Top Interview 150
